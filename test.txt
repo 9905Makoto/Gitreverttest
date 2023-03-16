@@ -1,2 +1,10 @@
 aaaaa
+<<<<<<< HEAD
 bbbbb
+<<<<<<< HEAD
+=======
+ccccc
+=======
+>>>>>>> parent of c159930 (second commit)
+ddddd
+>>>>>>> parent of 203cc3e (Revert "forth commit")
