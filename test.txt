@@ -1,7 +1,3 @@
 aaaaa
-<<<<<<< HEAD
 bbbbb
 ccccc
-=======
->>>>>>> parent of c159930 (second commit)
-ddddd
